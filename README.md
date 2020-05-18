@@ -1,2 +1,0 @@
-# weirdstuff.github.io
-boo
